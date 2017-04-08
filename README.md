@@ -1,2 +1,2 @@
 # test
-just a test repo
+Ducky adds a thing, commits, and pushes.
